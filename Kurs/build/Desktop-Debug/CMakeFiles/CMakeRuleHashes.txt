@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+d68ddd9ab68577021addc6a0e9d20305 CMakeFiles/Kurs_autogen
+17c78cf0ffdea38c6bade2b4c39bbdc6 Kurs_autogen/EWIEGA46WW/qrc_res.cpp
+6f20f3622a2cf59b7e523b6a1dc09956 Kurs_autogen/timestamp
